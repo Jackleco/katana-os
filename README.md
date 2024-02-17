@@ -1,5 +1,5 @@
 # solid-linux
-Solid Linux is a Linux distribution based on Debian that uses GNOME Flashback.
+Solid Linux is a Linux distribution based on Debian that uses Openbox and other packages to make up a desktop environment.
 
 **WARNING**
 
